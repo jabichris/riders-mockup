@@ -1,1 +1,1 @@
-<?php include_once("html/one_story.html"); ?>
+<?php include_once("index.html"); ?>
